@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="240" height="13" tilewidth="16" tileheight="16" infinite="0" nextlayerid="7" nextobjectid="5">
+ <tileset firstgid="1" source="../../../tileset_gutter.tsx"/>
+ <layer id="1" name="Background Color" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJztwzEJAAAMA7Ay/4bqrir2JZBeUlVVVVVVVVVVVVVV1ccDxULniQ==
+  </data>
+ </layer>
+ <layer id="2" name="Graphics Layer" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJzt1zEOgjAYBtDCpps6eQXdVPCk6k3U4/kPkhAHjVhAkveSL5DSNF0+mqaUz6lM6Ry5lBkXBQZxjd7eInf9hb/hXIXp6nKurvvbDgAAAAzu9Z5bPsfaT6Bfy2LsHQBdLKK7u8iqY4e/6f4s5s79KyCLprv7yOFDh6v4VrdyLN53v2rNa2zifau/kEUxUoDf6S9M1wNCZgxL
+  </data>
+ </layer>
+ <objectgroup id="3" name="Ground"/>
+ <objectgroup id="4" name="Pipes"/>
+ <objectgroup id="5" name="Coins"/>
+ <objectgroup id="6" name="Bricks"/>
+</map>
